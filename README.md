@@ -1,2 +1,2 @@
-# omministack-10
+# oministack-10
 Projeto de aprendizagem
