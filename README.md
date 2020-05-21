@@ -1,2 +1,3 @@
 # omnistack-10
-Projeto de aprendizagem
+
+Código da aplicação desenvolvida durante a Semana OmniStack 10.
